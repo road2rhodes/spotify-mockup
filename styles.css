@@ -21,6 +21,10 @@
 
 /* Blocks */
 
+.siteContainer {
+  height: 100vh;
+}
+
 /* Elements */
 
 /* Modifiers */
