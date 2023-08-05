@@ -11,8 +11,12 @@
   --middleGradientTopColor: #202020;
   --middleGradientMiddleColor: #121212;
   --middleGradientBottomColor: #111111;
+  --whiteColor: #ffffff;
 
   font-family: "Roboto", Verdana, Tahoma, sans-serif;
+  color: var(--whiteColor);
+  background-color: var(--bgColor);
+
 }
 
 /* Blocks */
